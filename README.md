@@ -1,16 +1,20 @@
-### Terraform & AWS EKS
-
-### Technologies used:
-
-Terraform, AWS EKS, Docker, Linux, Git
-
-### Project Description:
+### Project:
 
 Automate provisioning EKS cluster with Terraform
 
+### Technologies used:
+
+Terraform, AWS EKS, Kubernetes, Docker, Linux, Python, Git
+
+### Project Description:
+
+1- Create EKS cluster with Terraform
+
+2-Write Ansible Play to deploy application in a new K8s namespace
+
 ### Usage Instructions:
 
-1- Fill in variables into terraform.tfvars
+1- Fill in variables into terraform.tfvars to create K8s Cluster in EKS
 
 ```
 vpc_cidr_block =
