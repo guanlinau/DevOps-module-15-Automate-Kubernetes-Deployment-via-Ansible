@@ -1,6 +1,6 @@
 ### Project:
 
-Automate provisioning EKS cluster with Terraform
+Automate Kubernetes Deployment
 
 ### Technologies used:
 
